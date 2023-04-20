@@ -1,5 +1,6 @@
 <application>
   <component name="StorageInspectorSettings">
+    <option name="adbPath" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb" />
     <option name="analyticsStatus" value="false" />
   </component>
 </application>
