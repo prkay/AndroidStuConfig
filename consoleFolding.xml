@@ -3,6 +3,10 @@
     <option name="addedPositive">
       <list>
         <option value=" collect last valueType" />
+        <option value="ervice already running" />
+        <option value="FlutterActivityAndFragmentDelegate$2" />
+        <option value="nativeRelease nativeObject" />
+        <option value="Accessing hidden" />
       </list>
     </option>
   </component>
