@@ -8,6 +8,7 @@
         <option value="FlutterActivityAndFragmentDelegate$2" />
         <option value="nativeRelease nativeObject" />
         <option value="updateAcquireFence" />
+        <option value="isSBSettingEnabled" />
       </list>
     </option>
   </component>
