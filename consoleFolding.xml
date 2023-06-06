@@ -6,9 +6,12 @@
         <option value="Accessing hidden" />
         <option value="ervice already running" />
         <option value="FlutterActivityAndFragmentDelegate$2" />
-        <option value="nativeRelease nativeObject" />
-        <option value="updateAcquireFence" />
         <option value="isSBSettingEnabled" />
+        <option value="nativeRelease nativeObject" />
+        <option value="tagSocket(277) with statsTag=0xffffffff" />
+        <option value="updateAcquireFence" />
+        <option value="W  [{0}] Failed to resolve name. status={1}" />
+        <option value="tagSocket(248) with statsTag=0xffffffff," />
       </list>
     </option>
   </component>
