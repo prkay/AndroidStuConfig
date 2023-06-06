@@ -6,6 +6,7 @@
         <option value="Accessing hidden" />
         <option value="ervice already running" />
         <option value="FlutterActivityAndFragmentDelegate$2" />
+        <option value="getAllCellInfo : Caller" />
         <option value="isSBSettingEnabled" />
         <option value="nativeRelease nativeObject" />
         <option value="tagSocket(248) with statsTag=0xffffffff," />
@@ -13,7 +14,7 @@
         <option value="updateAcquireFence" />
         <option value="ViewPostIme pointer" />
         <option value="W  [{0}] Failed to resolve name. status={1}" />
-        <option value="getAllCellInfo : Caller" />
+        <option value="tagSocket(156) with statsTag=0xffffffff" />
       </list>
     </option>
   </component>
