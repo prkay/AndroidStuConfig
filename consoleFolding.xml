@@ -8,10 +8,11 @@
         <option value="FlutterActivityAndFragmentDelegate$2" />
         <option value="isSBSettingEnabled" />
         <option value="nativeRelease nativeObject" />
+        <option value="tagSocket(248) with statsTag=0xffffffff," />
         <option value="tagSocket(277) with statsTag=0xffffffff" />
         <option value="updateAcquireFence" />
         <option value="W  [{0}] Failed to resolve name. status={1}" />
-        <option value="tagSocket(248) with statsTag=0xffffffff," />
+        <option value="ViewPostIme pointer" />
       </list>
     </option>
   </component>
