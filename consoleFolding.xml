@@ -9,12 +9,13 @@
         <option value="getAllCellInfo : Caller" />
         <option value="isSBSettingEnabled" />
         <option value="nativeRelease nativeObject" />
+        <option value="tagSocket(156) with statsTag=0xffffffff" />
         <option value="tagSocket(248) with statsTag=0xffffffff," />
         <option value="tagSocket(277) with statsTag=0xffffffff" />
         <option value="updateAcquireFence" />
         <option value="ViewPostIme pointer" />
         <option value="W  [{0}] Failed to resolve name. status={1}" />
-        <option value="tagSocket(156) with statsTag=0xffffffff" />
+        <option value="[   +1 ms] I/flutter (15188): └------------------------------------------------------------------------------" />
       </list>
     </option>
   </component>
